@@ -1,0 +1,6 @@
+print('ingrese un valor: ')
+a=input()
+print('ingrese un valor: ')
+b=input()
+print('ingrese un valor: ')
+c=input()
